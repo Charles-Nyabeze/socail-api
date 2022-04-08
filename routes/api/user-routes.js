@@ -12,9 +12,7 @@ const {
 
 // Set up GET all and POST at /api/users
 router
-    .route('/')
-    .get()
-    .post();
+    .route('/').get().post();
 
 // /api/users
 router

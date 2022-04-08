@@ -2,8 +2,7 @@ const router = require('express').Router();
 const thoughtRoutes = require('./thought-routes');
 const userRoutes = require('./user-routes');
 
-// add users and thoughts to the beginning of the routes
-
+// add /users and /thoughts to the beginning of the routes
 router.use('/thoughts', thoughtRoutes);
 router.use('/users', userRoutes);
 
