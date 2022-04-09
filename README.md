@@ -66,8 +66,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 # Walkthrough
 
 > [Checkout the walkthrough pt1](https://www.loom.com/share/a7b12b277b8549b3acdcd2668343532b)
-> [Checkout the walkthrough pt2](https://www.loom.com/share/8b45a1d10c124dbbb8c08a40bb1aefcb)
-> [Checkout the walkthrough pt3](https://www.loom.com/share/586e6bfa3d1a468ea307c0ccb4aa5792)
+> [pt2](https://www.loom.com/share/8b45a1d10c124dbbb8c08a40bb1aefcb)
+> [pt3](https://www.loom.com/share/586e6bfa3d1a468ea307c0ccb4aa5792)
 
 # Questions
 Please contact me through the following methods!
